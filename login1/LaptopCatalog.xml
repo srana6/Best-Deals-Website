@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Laptop id="l001" retailer="LaptopSellCompany">
+        <image>'images/apple.jpg'</image>
+        <name>Laptop1</name>
+        <price>399</price>
+    </Laptop>
+    <Laptop id="l002" retailer="LaptopSellCompany">
+        <image>'images/asus.jpg'</image>
+        <name>Laptop2</name>
+        <price>299</price>
+        </Laptop>
+</ProductCatalog>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <TV id="t001" retailer="TVSellCompany">
+        <image>'images/samsung.jpg'</image>
+        <name>TV1</name>
+        <price>399</price>
+    </TV>
+    <TV id="t002" retailer="TVSellCompany">
+        <image>'images/Lg.jpg'</image>
+        <name>TV360</name>
+        <price>299</price>
+        </TV>
+	
+</ProductCatalog>

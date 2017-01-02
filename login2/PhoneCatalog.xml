@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Phone id="p001" retailer="PhoneSellCompany">
+        <image>'images/samsungp.jpg'</image>
+        <name>SmartPhone1</name>
+        <price>399</price>
+    </Phone>
+    <Phone id="p002" retailer="PhoneSellCompany">
+        <image>'images/Lgp.jpg'</image>
+        <name>SmartPhone2</name>
+        <price>299</price>
+        </Phone>
+	 
+	 <Phone id="p003" retailer="Sony">
+        <image>'images/s_03.jpg'</image>
+        <name>SonyDesire</name>
+        <price>399</price>
+    </Phone>
+	
+    <Phone id="p004" retailer="OnePlus">
+        <image>'images/s_04.jpg'</image>
+        <name>OnePlusOne</name>
+        <price>399</price>
+        </Phone>
+    <Phone id="p005" retailer="LG">
+        <image>'images/s_05.jpg'</image>
+        <name>LGMoto</name>
+        <price>299</price>
+        </Phone>
+</ProductCatalog>

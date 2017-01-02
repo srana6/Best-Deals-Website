@@ -1,0 +1,12 @@
+Extra Credit Data Analytics Functionalities How to Run:-
+
+1) Print the list of all products and their ratings- Select Product Name->Click Find Data.
+2) Print a list of reviews where rating greater than 3- Select revew rating, and greater than radio-> Click Find Data
+3) Get a list of products that got review rating 5 and price more than thousand- Select Product Name, Write Product price, Select Review Rating and Add 5->Click Find Data
+4) Print a list of how many reviews for every product- Select GroupBy->ProductName->Click Find Data
+5) Get the list of reviews for shoppers in Chicago-> Select Retailer City-> Write Chicago->Click Find Data.
+6) Get the top 5 list of liked products for every city- Select GroupBy, Select Return-> Top 5 Liked Product->Click Find Data.
+7) Print a list of reviews grouped by City- Select GroupBy City->Click Find Data.
+8) Print a list of reviews grouped by RetailerName- Select GroupBy Retailer Name->Click Find Data.
+9) Get the total number of products reviewed and got Rating 5 in Every City- Select Review Rating equals 5->GroupBy City->Click Find Data.
+10) Print the median product prices per city- Select GroupBy City-> Return: Median Price->Click Find Data

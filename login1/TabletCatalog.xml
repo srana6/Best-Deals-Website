@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Tablet id="b001" retailer="TabletSellCompany">
+        <image>'images/delltb.jpg'</image>
+        <name>Dell</name>
+        <price>399</price>
+    </Tablet>
+    <Tablet id="b002" retailer="TabletSellCompany">
+        <image>'images/lenovotb.jpg'</image>
+        <name>Lenovo</name>
+        <price>299</price>
+        </Tablet>
+	
+</ProductCatalog>

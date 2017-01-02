@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Tablet id="b001" retailer="TabletSellCompany">
+        <image>'images/delltb.jpg'</image>
+        <name>Dell</name>
+        <price>399</price>
+    </Tablet>
+    <Tablet id="b002" retailer="TabletSellCompany">
+        <image>'images/lenovotb.jpg'</image>
+        <name>Lenovo</name>
+        <price>299</price>
+        </Tablet>
+		
+	<Tablet id="b003" retailer="LG">
+        <image>'images/tab_03.jpg'</image>
+        <name>LG021</name>
+        <price>399</price>
+    </Tablet>
+    <Tablet id="b004" retailer="Motorola">
+        <image>'images/tab_04.png'</image>
+        <name>Moto360</name>
+        <price>299</price>
+        </Tablet>
+    <Tablet id="b005" retailer="Apple">
+        <image>'images/tab_05.jpg'</image>
+        <name>AppleAir</name>
+        <price>299</price>
+        </Tablet>
+	
+</ProductCatalog>

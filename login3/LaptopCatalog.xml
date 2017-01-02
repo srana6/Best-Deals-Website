@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Laptop id="l001" retailer="LaptopSellCompany">
+        <image>'images/apple.jpg'</image>
+        <name>Laptop1</name>
+        <price>399</price>
+    </Laptop>
+    <Laptop id="l002" retailer="LaptopSellCompany">
+        <image>'images/asus.jpg'</image>
+        <name>Laptop2</name>
+        <price>299</price>
+        </Laptop>
+	
+	<Laptop id="l003" retailer="Samsung">
+        <image>'images/lp_03.png'</image>
+        <name>SamsungSmart</name>
+        <price>299</price>
+        </Laptop>
+
+    <Laptop id="l004" retailer="Lenovo">
+        <image>'images/lp_04.jpg'</image>
+        <name>Lenovo80</name>
+        <price>499</price>
+        </Laptop>
+    <Laptop id="l005" retailer="HCL">
+        <image>'images/lp_05.jpg'</image>
+        <name>HCLHome</name>
+        <price>399</price>
+        </Laptop>
+</ProductCatalog>
